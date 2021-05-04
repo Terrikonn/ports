@@ -1,0 +1,5 @@
+[submodule "riscv-newlib"]
+	path = riscv-newlib
+	url = git@github.com:riscv/riscv-newlib.git
+	branch = master
+
